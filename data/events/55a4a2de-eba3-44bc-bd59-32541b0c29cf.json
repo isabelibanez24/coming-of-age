@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "b786d778-b2c8-468f-b41f-dd26819139d1": {
+      "label": "Quinceañera — Trailer",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=E43fgtbhj7I",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The trailer for Quinceañera (2006) introduces a coming-of-age story set in Echo Park, Los Angeles. This teaching resource invites students to examine how the trailer frames adolescence, family expectations, sexuality, and belonging through its selection of scenes, dialogue, music, and editing."
+        }
+      ]
+    }
+  ],
+  "citation": "“Quinceañera | Official Trailer (2006).” YouTube, https://www.youtube.com/watch?v=E43fgtbhj7I.",
+  "label": "Quinceañera — Official Trailer (2006)",
+  "av_file_order": [
+    "b786d778-b2c8-468f-b41f-dd26819139d1"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
+  "created_at": "2026-10-14T02:17:06.393Z",
+  "created_by": "isabelibanez24",
+  "updated_at": "2026-10-14T02:17:06.393Z",
+  "updated_by": "isabelibanez24"
+}
